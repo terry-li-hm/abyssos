@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "abyssos"
-version = "0.1.0"
+version = "0.1.1"
 description = "Abyssos terminal colour theme — very dark navy/charcoal with teal/cyan hero accent"
 readme = "README.md"
 license = { text = "MIT" }

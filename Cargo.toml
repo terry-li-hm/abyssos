@@ -1,6 +1,6 @@
 [package]
 name = "abyssos"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Abyssos terminal colour theme — very dark navy/charcoal with teal/cyan hero accent"
 license = "MIT"

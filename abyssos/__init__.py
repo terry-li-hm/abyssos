@@ -36,5 +36,5 @@ PALETTE = {
     "bright_white":    "#D8DADC",
 }
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __all__ = ["PALETTE"]
