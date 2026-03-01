@@ -77,6 +77,17 @@ use abyssos::CYAN;
 println!("{}", CYAN);  // "#20C5C0"
 ```
 
+### tmux
+
+```sh
+# Add to ~/.tmux.conf:
+source-file /path/to/abyssos/themes/abyssos.tmux.conf
+```
+
+Or copy the relevant lines from `themes/abyssos.tmux.conf`.
+
+> Note: uses 256-colour numbers, not hex — hex breaks mouse clicks in some terminals.
+
 ## License
 
 MIT
